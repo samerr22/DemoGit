@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function sss() {
   return (
-    <div>sss</div>
+    <div>sssjjjjj</div>
   )
 }
